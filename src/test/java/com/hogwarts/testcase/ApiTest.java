@@ -17,7 +17,7 @@ public class ApiTest {
     private String baseUrl = "";
     private String expectCityName = "";
 
-    //添加测试jenkins代码
+    //添加测试jenkins代码1
 
     /**
      * Load config file from the environment path user.home.
