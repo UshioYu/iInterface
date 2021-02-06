@@ -16,7 +16,6 @@ import java.util.Properties;
 public class ApiTest {
     private String baseUrl = "";
     private String expectCityName = "";
-    //测试cicd
 
     /**
      * Load config file from the environment path user.home.
